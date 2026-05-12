@@ -10,8 +10,7 @@ body {
     font-family: 'Inter', sans-serif;
     font-size: 16px;
     line-height: 1.6;
-    background-color: #031020;
-    color: #ffffff;
+    color: #ffffff; /*Perubahan eksperimen warna*/
     margin: 0;
     padding: 0;
     padding-top: 60px;
